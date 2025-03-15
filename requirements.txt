@@ -1,0 +1,7 @@
+fastapi
+openai
+PyPDF2
+pandas
+python-pptx
+python-docx
+uvicorn
